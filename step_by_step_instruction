@@ -1,10 +1,16 @@
 # Project-5 lambda
 
-1- Create a IAM Role for lambda first 
-   IAM Role->Aws service->select use case- lambda ->s3full acess,cloudwatch full acess,SQS full acess -> Create
+Step1- Create a IAM Role for lambda first 
+       IAM Role->Aws service->select use case- lambda ->s3full acess,cloudwatch full acess,SQS full acess -> Create
   
 
-   Go to Aws conosle -> lambda->create->Author from scratch->Name-Saif-lambda-function->Runtime-Python 3.10
-   Use an existing role -> Create Function
+Step2- lambda->create->Author from scratch->Name-Saif-lambda-function->Runtime-Python 3.10
+       Use an existing role-select role -> Create Function
+
+Step3- S3-Create bucket-Allow public acess
+
+Step4-
+
+
    
    
