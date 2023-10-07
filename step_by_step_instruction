@@ -5,6 +5,6 @@
   
 
    Go to Aws conosle -> lambda->create->Author from scratch->Name-Saif-lambda-function->Runtime-Python 3.10
-   Execution-create a new 
+   Use an existing role -> Create Function
    
    
