@@ -1,1 +1,10 @@
+# Project-5 lambda
 
+1- Create a IAM Role for lambda first 
+   IAM Role->Aws service->select use case- lambda ->s3full acess,cloudwatch full acess,SQS full acess -> Create
+  
+
+   Go to Aws conosle -> lambda->create->Author from scratch->Name-Saif-lambda-function->Runtime-Python 3.10
+   Execution-create a new 
+   
+   
