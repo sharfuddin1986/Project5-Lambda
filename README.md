@@ -1,10 +1,10 @@
 # Project5-
 
-You work for XYZ Corporation. Your team is asked to deploy similar architecture
+You work for XYZ Corporation. Your team is asked to deploy similar 
 
-multiple times for testing, development, and production purposes. Implement
+architecture multiple times for testing, development, and production 
 
-CloudFormation for the tasks assigned to you below.
+purposes. Implement CloudFormation for the tasks assigned to you below.
 
 # Tasks To Be Performed:
 
