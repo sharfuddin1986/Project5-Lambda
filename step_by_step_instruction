@@ -7,10 +7,14 @@ Step1- Create a IAM Role for lambda first
 Step2- lambda->create->Author from scratch->Name-Saif-lambda-function->Runtime-Python 3.10
        Use an existing role-select role -> Create Function
 
-Step3- S3-Create bucket-Allow public acess
+Step3- S3-Create->Bucket Name-> bucket-Allow public acess ->Create 
 
-Step4-
+Step4- Go to Lambda function->select lambda function we have created before->triggered
+       source->S3 select->select the bucket->event type all->Create
 
 
-   
-   
+Step5- Go to SQS ->standard ->name ->create 
+
+
+Step6- Go to Lambda function->select lambda function -> destination ->souruce-Asynchronous invocation
+       on sucess->destination type-sqs ->select sqs - > save
