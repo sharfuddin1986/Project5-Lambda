@@ -18,3 +18,4 @@ Step5- Go to SQS ->standard ->name ->create
 
 Step6- Go to Lambda function->select lambda function -> destination ->souruce-Asynchronous invocation
        on sucess->destination type-sqs ->select sqs - > save
+
