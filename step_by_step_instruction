@@ -20,6 +20,10 @@ Step6- Go to Lambda function->select lambda function -> destination ->souruce-As
        on sucess->destination type-sqs ->select sqs - > save
 
 Step7  Go to Lambda function->paste the code ### file is attached in repo
-       write the code and deploy
+       write the code and deploy 
 
         Go to s3 bucket and uplaod the txt file 
+        after that i can check in cloud watch (logs-log group-i can see there file name is showing its uploded.
+
+        Again upload json file in s3 bucket
+         after that i can check in cloud watch (logs-log group-i can see there file name and contain is showing also.
